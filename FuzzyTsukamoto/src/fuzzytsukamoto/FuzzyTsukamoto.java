@@ -1,9 +1,3 @@
-/*
- * Nama    : Muhammad Sholeh
- * NIM     : 09021281823172
- * Kelas   : Reguler C 2018
- */
-
 package fuzzytsukamoto;
 import java.util.Scanner;
 import java.io.BufferedReader;
